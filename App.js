@@ -10,7 +10,7 @@ import {
     TouchableOpacity,
     View
 } from 'react-native';
-import Task from "./Compotents/Task";
+import Task from "./Components/Task";
 
 export default function App() {
     const [task, setTask] = useState();
